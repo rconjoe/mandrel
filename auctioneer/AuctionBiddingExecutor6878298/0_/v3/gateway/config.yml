@@ -1,0 +1,5 @@
+jtype: GatewayAuctionBiddingExecutor6878298
+py_modules:
+  - custom_gateway.py
+metas:
+  name: GatewayAuctionBiddingExecutor6878298

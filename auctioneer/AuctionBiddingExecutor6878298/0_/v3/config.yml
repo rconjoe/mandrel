@@ -1,0 +1,5 @@
+jtype: AuctionBiddingExecutor6878298
+py_modules:
+  - __init__.py
+metas:
+  name: AuctionBiddingExecutor6878298

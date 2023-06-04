@@ -1,0 +1,8 @@
+{
+    "1": "Add a check to ensure that there is at least one bid in the bids list before attempting to determine the winner. If there are no bids, return a failure message indicating that the auction ended with no bids.",
+    "2": "Add a check to ensure that there is at least one bid in the bids list before attempting to determine the winner. If there are no bids, return a success message indicating that the auction ended with no bids.",
+    "3": "Modify the code to use a try-except block to catch the IndexError when attempting to extract the winner from the bids list. If an IndexError occurs, return a failure message indicating that the auction ended with no winner.",
+    "4": "Modify the code to use a try-except block to catch the IndexError when attempting to extract the winner from the bids list. If an IndexError occurs, return a success message indicating that the auction ended with no winner.",
+    "5": "Add a check to ensure that the bids list is not empty before attempting to extract the winner. If the bids list is empty, return a failure message indicating that the auction ended with no bids.",
+    "6": "Add a check to ensure that the bids list is not empty before attempting to extract the winner. If the bids list is empty, return a success message indicating that the auction ended with no bids."
+}
